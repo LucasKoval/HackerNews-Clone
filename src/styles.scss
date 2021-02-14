@@ -1,5 +1,6 @@
 $base-text-color: #e17055;
 $link-color: #b55a44;
+$bg-color: #F6F6EF;
 
 * {
   margin: 0;
@@ -11,6 +12,7 @@ body {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   letter-spacing: 1px;
   color: $base-text-color;
+  background-color: $bg-color;
 }
 
 h1 {
@@ -77,6 +79,7 @@ h1 {
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 10px;
+  background-color: white;
 
   .story-title {
     margin-bottom: 4px;
