@@ -1,6 +1,7 @@
 # Hacker-News clone app in React.
 
 By Lucas Koval - Full Stack Developer.
+
 Contact Info: [https://www.linkedin.com/in/lucaskoval/](https://www.linkedin.com/in/lucaskoval/)
 
 ## Available Scripts
@@ -56,8 +57,8 @@ API to get best stories: [https://hacker-news.firebaseio.com/v0/beststories.json
 
 ### Used Dependencies
 
-* axios
-* bootstrap
-* node-sass
-* react-bootstrap
-* react-router-dom
+- axios
+- bootstrap
+- node-sass
+- react-bootstrap
+- react-router-dom
